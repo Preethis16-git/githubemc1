@@ -1,2 +1,2 @@
 this is dummmy file
-this dummy file can make changes.
+this dummy file can make change.
